@@ -1,0 +1,8 @@
+{
+  "name": "Khata Saathi",
+  "description": "उधार से Profit तक, दुकान का पूरा हिसाब एक ही ऐप में। 100% Free Offline Khata, Sales, Stock, Invoices, and Reports for Indian shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
